@@ -3,12 +3,27 @@
   
   <url>
     <loc>https://msne2016.github.io/</loc>
+    <lastmod>2017-05-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msne2016.github.io/post/retreat/</loc>
+    <lastmod>2017-05-12T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msne2016.github.io/post/hbp/</loc>
     <lastmod>2016-12-20T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://msne2016.github.io/post/example/</loc>
-    <lastmod>2016-12-20T12:00:00+00:00</lastmod>
+    <loc>https://msne2016.github.io/post/christkindl/</loc>
+    <lastmod>2016-12-09T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msne2016.github.io/post/msne_blog/</loc>
+    <lastmod>2016-09-23T18:00:00+00:00</lastmod>
   </url>
   
 </urlset>
