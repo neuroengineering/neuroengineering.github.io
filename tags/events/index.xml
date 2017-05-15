@@ -1,29 +1,40 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MSNE Blog</title>
+    <title>Events on MSNE Blog</title>
     <link>https://msne2016.github.io/tags/events/index.xml</link>
-    <description>Recent content on MSNE Blog</description>
+    <description>Recent content in Events on MSNE Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>MSNE All rights reserved.</copyright>
+    <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <atom:link href="https://msne2016.github.io/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Upcoming: Spring 2017 MSNE Retreat</title>
-      <link>https://msne2016.github.io/post/retreat/</link>
+      <title>Spring 2017 MSNE Retreat</title>
+      <link>https://msne2016.github.io/2017/05/12/spring-2017-msne-retreat</link>
       <pubDate>Fri, 12 May 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/post/retreat/</guid>
-      <description></description>
+      <guid>https://msne2016.github.io/2017/05/12/spring-2017-msne-retreat</guid>
+      <description>&lt;p&gt;The Spring 2017 MSNE Retreat took place in Fischen, Allgäu from May 14 to May 17.&lt;/p&gt;
+
+&lt;p&gt;Apart from the MSNE Students, we welcomed the following speakers for invited talks:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Thursday: &lt;a href=&#34;http://bethgelab.org/people/matthias/&#34;&gt;Prof. Dr. Matthias Bethge&lt;/a&gt;, &lt;a href=&#34;http://bethgelab.org/&#34;&gt;Bethge Lab&lt;/a&gt;, University of Tübingen&lt;/li&gt;
+&lt;li&gt;Friday: &lt;a href=&#34;https://www.uni-ulm.de/in/neuroinformatik/mitarbeiter/hneumann/&#34;&gt;Prof. Dr. Heiko Neumann&lt;/a&gt;, &lt;a href=&#34;https://www.uni-ulm.de/in/neuroinformatik/&#34;&gt;Institut für Neuroinformatik&lt;/a&gt;, University of Ulm&lt;/li&gt;
+&lt;li&gt;Saturday: Dr. Dmitry Kireev, &lt;a href=&#34;http://www.fz-juelich.de/pgi/pgi-8/EN/Home/_node.html&#34;&gt;Institute of Bioelectronics&lt;/a&gt;, Forschungszentrum Jülich&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;A more elaborate article on the retreat as well as the retreat proceedings will be published here soon.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>1st Human Brain Project student conference in Vienna</title>
-      <link>https://msne2016.github.io/post/hbp/</link>
+      <link>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna</link>
       <pubDate>Fri, 10 Feb 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/post/hbp/</guid>
+      <guid>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/170205-2-hbp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;In February, Raja, Abdallah, James and Nicolas had the chance to attend the first student conference of the European Human Brain Project in Vienna. This study trip was carried out within the MSNE program and was supported by the Elite Network of Barvaria (ENB).&lt;/p&gt;
@@ -59,10 +70,10 @@ It was especially nice to see how well the first semester in the Neuroengineerin
     
     <item>
       <title>Christkindl Market</title>
-      <link>https://msne2016.github.io/post/christkindl/</link>
+      <link>https://msne2016.github.io/2016/12/09/christkindl-market</link>
       <pubDate>Fri, 09 Dec 2016 18:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/post/christkindl/</guid>
+      <guid>https://msne2016.github.io/2016/12/09/christkindl-market</guid>
       <description>&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/161209-christkindl.jpg&#34; alt=&#34;Group Photo Christkindl Market&#34; /&gt;&lt;/p&gt;
 
 &lt;p&gt;On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the many Christkindl-Markets in Munich for some nice hot Glühwein.&lt;/p&gt;
@@ -75,10 +86,10 @@ It was especially nice to see how well the first semester in the Neuroengineerin
     
     <item>
       <title>Welcome to our blog!</title>
-      <link>https://msne2016.github.io/post/msne_blog/</link>
+      <link>https://msne2016.github.io/2016/09/23/welcome-to-our-blog</link>
       <pubDate>Fri, 23 Sep 2016 18:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/post/msne_blog/</guid>
+      <guid>https://msne2016.github.io/2016/09/23/welcome-to-our-blog</guid>
       <description>&lt;p&gt;We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.&lt;/p&gt;
 
 &lt;p&gt;This blog serves two purposes:&lt;/p&gt;
