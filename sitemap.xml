@@ -2,22 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://msne2016.github.io/2017/05/12/spring-2017-msne-retreat</loc>
+    <loc>https://msne2016.github.io/post/retreat/</loc>
     <lastmod>2017-05-12T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna</loc>
+    <loc>https://msne2016.github.io/post/munich_brain_course/</loc>
+    <lastmod>2017-04-01T18:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://msne2016.github.io/post/hbp/</loc>
     <lastmod>2017-02-10T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://msne2016.github.io/2016/12/09/christkindl-market</loc>
+    <loc>https://msne2016.github.io/post/christkindl/</loc>
     <lastmod>2016-12-09T18:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://msne2016.github.io/2016/09/23/welcome-to-our-blog</loc>
+    <loc>https://msne2016.github.io/post/msne_blog/</loc>
     <lastmod>2016-09-23T18:00:00+00:00</lastmod>
   </url>
   
