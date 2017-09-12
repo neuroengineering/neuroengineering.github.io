@@ -2,56 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on MSNE Blog</title>
-    <link>https://msne2016.github.io/post/index.xml</link>
+    <link>https://msne2016.github.io/post/</link>
     <description>Recent content in Posts on MSNE Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
     <lastBuildDate>Sat, 10 Jun 2017 12:00:00 +0000</lastBuildDate>
-    <atom:link href="https://msne2016.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://msne2016.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>MSNE team &#39;Neuruns&#39; at the ENB EliteCup 2017</title>
-      <link>https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017</link>
+      <link>https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017/</link>
       <pubDate>Sat, 10 Jun 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017</guid>
-      <description>&lt;p&gt;The ENB EliteCup 2017 is a football tournament between the master programs of the Elite Network of Bavaria that takes place every year.
-This year, we jumped at the opportunity to participate and assembled a neuroengineering team, called &amp;lsquo;The Neuruns&amp;rsquo;.&lt;/p&gt;
-
-&lt;p&gt;Despite the odds of being still a very small program and some of us not being able to play due to Ramadan, we managed to form a team of sufficiently many players.
-Our thanks goes to Lukas, a PhD student at the NST, and ⁠⁠⁠Davide, a Neuroscience student at LMU, for reinforcing our team.
-We were furthermore very happy to have Prof. Conradt in our team who brought some structure into our otherwise chaotic strategy.&lt;/p&gt;
-
-&lt;p&gt;Besides having by far the highest participation rate of all master programs, we also had the highest number of female players with Pooja and Auguste who were doing an amazing job in our defense.&lt;/p&gt;
-
-&lt;p&gt;The tournament started with a group phase, where we had a stellar performance and qualified without problems for the elimination rounds.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/football.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Well, not really&amp;hellip; ;) One of our opponents had dropped out of the tournament and therefore we had a bye to the elimination round even without winning any games.&lt;/p&gt;
-
-&lt;p&gt;In the quarter final we had the bad luck of facing the CDTM1 team which later on won the tournament. The game against them was a fierce battle with them playing, admittedly, beautiful football and us trying our hardest to defend against their onslaught. Especially our goalkeeper, Bashiri, was an absolute beast in this game and even defended a penalty kick.
-Even though we did our best and our team play had improved tremendously since the first game, team CDMT1 bested us and we were eliminated from the tournament.
-But at least we didn&amp;rsquo;t loose as high against them as other teams ;)&lt;/p&gt;
-
-&lt;p&gt;We then spent the rest of the afternoon relaxing on the grass next to the football fields, having some cold beer while watching the remaining games.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/beer_selfie.jpeg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;So, if you are a great football player, we encourage you to apply to the MSNE program. We can use back up in the coming tournaments. :)&lt;/p&gt;
-
-&lt;p&gt;We would like to thank the organizers for the great tournament as well as TNG Technology Consulting for sponsoring lunch.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Nicolas Berberich&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017/</guid>
+      <description>The ENB EliteCup 2017 is a football tournament between the master programs of the Elite Network of Bavaria that takes place every year. This year, we jumped at the opportunity to participate and assembled a neuroengineering team, called &amp;lsquo;The Neuruns&amp;rsquo;.
+Despite the odds of being still a very small program and some of us not being able to play due to Ramadan, we managed to form a team of sufficiently many players.</description>
     </item>
     
     <item>
       <title>Spring 2017 MSNE Retreat</title>
-      <link>https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat</link>
+      <link>https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat/</link>
       <pubDate>Sun, 14 May 2017 12:00:00 +0000</pubDate>
       
+<<<<<<< HEAD
       <guid>https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat</guid>
       <description>
 
@@ -117,108 +93,55 @@ But at least we didn&amp;rsquo;t loose as high against them as other teams ;)&lt
 
 &lt;p&gt;&lt;em&gt;Pranshul Saini&lt;/em&gt;&lt;/p&gt;
 </description>
+=======
+      <guid>https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat/</guid>
+      <description>The Spring 2017 MSNE Retreat took place in Fischen, Allgäu from May 14 to May 17.
+Apart from the MSNE Students, we welcomed the following speakers for invited talks:
+ Thursday: Prof. Dr. Matthias Bethge, Bethge Lab, University of Tübingen Friday: Prof. Dr. Heiko Neumann, Institut für Neuroinformatik, University of Ulm Saturday: Dr. Dmitry Kireev, Institute of Bioelectronics, Forschungszentrum Jülich  Retreat Proceedings Proceedings of the retreat are available here.</description>
+>>>>>>> 26acb90754e5f888ecbba8589e1b8c12188de91c
     </item>
     
     <item>
       <title>Participation in the Munich Brain Course</title>
-      <link>https://msne2016.github.io/2017/04/01/participation-in-the-munich-brain-course</link>
+      <link>https://msne2016.github.io/2017/04/01/participation-in-the-munich-brain-course/</link>
       <pubDate>Sat, 01 Apr 2017 18:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2017/04/01/participation-in-the-munich-brain-course</guid>
-      <description>&lt;p&gt;After a semester of interesting theoretical lectures in neuroanatomy and neurophysiology we had the chance of gaining practical hands-on experience about the human brain in the &lt;a href=&#34;https://www.intensivkurs-neuroanatomie.de/&#34;&gt;Munich Brain Course&lt;/a&gt;.&lt;/p&gt;
-
-&lt;p&gt;The Munich Brain Course is a yearly intensive course on neuroanatomy organized by the  &lt;em&gt;Institute of Anatomy&lt;/em&gt; of the &lt;em&gt;Ludwig Maximilians University (LMU)&lt;/em&gt; - the non-technical university in Munich.&lt;/p&gt;
-
-&lt;p&gt;The course started in the morning with a nice welcome buffet. Strengthened by the snacks and the coffee, we learned about the century-long history of neuroscience research in Munich and about the structure and organization of the course during an introductory talk and then had the pleasure to hear from Prof. Dr. Benedikt Grothe how the brain evolved over the last half billion years. We were surprised that the first precursors of the central nervous systems existed as early as 500 million years ago, when the first bilateral animals (having a head and a tail instead of being radially symmetric like a jellyfish) evolved. A few million years later the first fish with jaws came into being and in parallel &amp;lsquo;invented&amp;rsquo; the cerebellum to solve the complex motion control of jaw movement. Eyes, ears, hands and feet are obviously brilliant evolutionary innovations, but who would have thought that jaws were just as important and that their evolution is responsible for the part of our brain containing around 75% of our neurons?
-Prof. Grothe&amp;rsquo;s great lecture was followed by an introduction to the first of the three hands-on sessions.&lt;/p&gt;
-
-&lt;p&gt;Unlike the lectures, the practical sessions were conducted in the anatomic theatre where we were first given a plastic skirt and medical gloves. Then we gathered in small groups of 4-6 students around the tables, each with a tutor and a brain.  All three tutors that my group had in the three sessions were practicing neurosurgeons who were all very knowledgeable as well as great teachers. They all had an interactive style and liked to quiz us on the location and function of different brain structures. This is where our lectures in neuroanatomy and -physiology came in handy.
-Some of us, me included, were quite sceptical about seeing and touching  a human brain - not to speak of dissecting one. And indeed, at first there was an awkward feeling and we students were quite reserved about touching the brain when we were told to remove the dura mater. This turned out to be a quite difficult task because the cerebellar tentorium, the part of the dura mater that separates the cerebellum and the occipital lobe, was stuck. It felt strange to take appart something that was not long ago the central part of a person. But then I came to realize that the best way to show respect to the brain&amp;rsquo;s donor was to use this opportunity to learn as much as possible. He or she donated it for the purpose of educating scientists, engineers and medical doctors that would later use the insight gained by the inspection of their brain to improve the human condition.&lt;/p&gt;
-
-&lt;p&gt;After a while I was able to shift into a scientific perspective which made the nausea disappear.
-The dura mater is the first part of the meninges, the three membranes that envelop the brain. The other two are the arachnoid layer which contains the cerebrospinal fluid (CSF) and the pia mater which is impermeable to the CSF and envelops the cortex. After the removal of the outer membranes of the brain we were able to see the gyri and sulci of the cortex and inspect the subarachnoid cisterns. We also recapitulated our knowledge about the lobes of the cortex and the parts of the brain stem.
-In the following hands-on sessions we learned to identify the twelve pairs of cranial nerves and their function. Furthermore we learned about the folding of the cortex during evolution and the language system arch on the dominant cerebral hemisphere, from Wernicke&amp;rsquo;s area on the superior temporal gyrus, which is involved in language understanding, over the parts of the primary motor cortex that control the lips and the tongue to Broca&amp;rsquo;s area, on the inferior frontal gyrus, which is responsible for language production.
-Afterwards, we cut the brain into slices which helped to identify several of the subcortical structures like the basal ganglia, the thalamus and the hippocampus.&lt;br /&gt;
-In between the practical sessions there were several lectures given by experts in neuroanatomy as well as a great keynote lecture on Friday evening by Prof. Peter Redgrave from the University of Sheffield, who talked about the basal ganglia&amp;rsquo;s role in action selection. Another highlight was a live obduction of a brain performed by Prof. Andreas Bütter and Prof. Matthias Graw.&lt;/p&gt;
-
-&lt;p&gt;The Munich Brain Course was a great learning opportunity. Having dissected and inspected a human brain by ourselves changes the relationship to the object of our studies and makes the theoretical concepts tangible. We felt well prepared for the course owing to the MSNE lectures in neuroanatomy and -physiology and believe that the Munich Brain Course was a perfect practical complement to those.&lt;/p&gt;
-
-&lt;p&gt;The event was also a great opportunity for our batch to get together after not seeing each other during the lecture free period. Therefore, in the lunch breaks we bought a huge pile of pita bread and some dips from a Turkish shop and gathered on the staircase of a neighboring building to eat and enjoy the sunny spring weather together.&lt;/p&gt;
-
-&lt;p&gt;Our attendence was organized and paid for by the MSNE program and the ENB, so we&amp;rsquo;d like to thank them and the organizers of the Munich Brain Course for the very informative two days.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Nicolas Berberich&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://msne2016.github.io/2017/04/01/participation-in-the-munich-brain-course/</guid>
+      <description>After a semester of interesting theoretical lectures in neuroanatomy and neurophysiology we had the chance of gaining practical hands-on experience about the human brain in the Munich Brain Course.
+The Munich Brain Course is a yearly intensive course on neuroanatomy organized by the Institute of Anatomy of the Ludwig Maximilians University (LMU) - the non-technical university in Munich.
+The course started in the morning with a nice welcome buffet. Strengthened by the snacks and the coffee, we learned about the century-long history of neuroscience research in Munich and about the structure and organization of the course during an introductory talk and then had the pleasure to hear from Prof.</description>
     </item>
     
     <item>
       <title>1st Human Brain Project student conference in Vienna</title>
-      <link>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna</link>
+      <link>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna/</link>
       <pubDate>Fri, 10 Feb 2017 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna</guid>
-      <description>&lt;p&gt;In February, Raja, Abdallah, James and Nicolas had the chance to attend the first student conference of the European Human Brain Project in Vienna. This study trip was carried out within the MSNE program and was supported by the Elite Network of Barvaria (ENB).&lt;/p&gt;
-
-&lt;p&gt;Having already brought our suitcases to the final exam in &lt;em&gt;Computational Neuroscience&lt;/em&gt;, we started our trip directly after handing in our solutions. Late in the evening, after a four-hour train ride, we finally arrived in Vienna and checked in at our hotel which was in walking distance to the university of Vienna where the conference was hosted.&lt;/p&gt;
-
-&lt;p&gt;On the next morning we joined a free-walking tour. Fighting the freezing cold we made our way through the city and learned a lot about the glorious history of the Autro-Hungarian Empire.
-The amount of beautiful historic buildings was absolutely mindblowing.&lt;/p&gt;
-
-&lt;p&gt;After lunch the conference started with a welcome talk and a couple of lectures by senior researchers in the HBP. In between the lectures there were lightning talks where students shortly gave an overview of their research and invited the audience to meet them for discussions at their scientific posters.&lt;/p&gt;
-
-&lt;p&gt;The final talk of the first day was followed by a welcome buffet where we met a researcher from Heidelberg with whom we had a long and interesting conversation about the history and technology of neuromorphic computing.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/170205-1-hbp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;On the two following days there were many more interesting talks on a broad range of topics associated with the HBP as well as more student presentations which culminated in the poster session. In total, the lectures that were given at the HBP student conference ranged from computational neuroscience, neurorobotics, neuroimaging, molecular neuroscience, machine learning applied to neurological data to neuromorphic hardware.
-As addition to the technical talks there was also a presentation and discussion about the ethics of collaboration.&lt;/p&gt;
-
-&lt;p&gt;The conference was a great opportunity for us to meet other students with an interest in neuroscience and technology - from Norway through Jülich and Heidelberg to South Korea.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&#34;https://msne2016.github.io/img/170205-3-hbp.jpg&#34; alt=&#34;&#34; /&gt;&lt;/p&gt;
-
-&lt;p&gt;In summary, the HBP student conference was a hugely interesting and inspiring event.
-It was especially nice to see how well the first semester in the Neuroengineering program had prepared us to understand the lectures. We learned that the HBP isn&amp;rsquo;t a traditional neuroscience project but instead is about the interdisciplinary merger of neuroscience and ICT. Therefore studying neuroengineering seems like the perfect preparation for getting involved in the HBP, which some of our batch are actually doing now in the form of research projects and student jobs.&lt;/p&gt;
-
-&lt;p&gt;We would like to thank the MSNE program and the ENB for their support which made this great experience possible.&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Nicolas Berberich&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;em&gt;Photo credits of the HBP-marked photos belong to the HBP Education Programme&lt;/em&gt;&lt;/p&gt;
-</description>
+      <guid>https://msne2016.github.io/2017/02/10/1st-human-brain-project-student-conference-in-vienna/</guid>
+      <description>In February, Raja, Abdallah, James and Nicolas had the chance to attend the first student conference of the European Human Brain Project in Vienna. This study trip was carried out within the MSNE program and was supported by the Elite Network of Barvaria (ENB).
+Having already brought our suitcases to the final exam in Computational Neuroscience, we started our trip directly after handing in our solutions. Late in the evening, after a four-hour train ride, we finally arrived in Vienna and checked in at our hotel which was in walking distance to the university of Vienna where the conference was hosted.</description>
     </item>
     
     <item>
       <title>Christkindl Market</title>
-      <link>https://msne2016.github.io/2016/12/09/christkindl-market</link>
+      <link>https://msne2016.github.io/2016/12/09/christkindl-market/</link>
       <pubDate>Fri, 09 Dec 2016 18:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2016/12/09/christkindl-market</guid>
-      <description>&lt;p&gt;On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the many Christkindl-Markets in Munich for some nice hot Glühwein.&lt;/p&gt;
-
-&lt;p&gt;The medival-themed market with its many craftsmen and -women including a glassblower, a goldsmith and calligraphers as well as the authentic wooden stalls immediately makes one forget the stressful daily routine and emits a traditional Christmassy atmosphere.&lt;/p&gt;
-
-&lt;p&gt;Standing around a stump that served as a table for our Glühwein cups, we also talked about organisational matters and planned activities like the writing of this blog.&lt;/p&gt;
-</description>
+      <guid>https://msne2016.github.io/2016/12/09/christkindl-market/</guid>
+      <description>On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the many Christkindl-Markets in Munich for some nice hot Glühwein.
+The medival-themed market with its many craftsmen and -women including a glassblower, a goldsmith and calligraphers as well as the authentic wooden stalls immediately makes one forget the stressful daily routine and emits a traditional Christmassy atmosphere.
+Standing around a stump that served as a table for our Glühwein cups, we also talked about organisational matters and planned activities like the writing of this blog.</description>
     </item>
     
     <item>
       <title>Welcome to our blog!</title>
-      <link>https://msne2016.github.io/2016/09/23/welcome-to-our-blog</link>
+      <link>https://msne2016.github.io/2016/09/23/welcome-to-our-blog/</link>
       <pubDate>Fri, 23 Sep 2016 18:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2016/09/23/welcome-to-our-blog</guid>
-      <description>&lt;p&gt;We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.&lt;/p&gt;
-
-&lt;p&gt;This blog serves two purposes:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;We want to write a diary about the many great things that we are doing and experiencing.&lt;/li&gt;
-&lt;li&gt;The blog is also supposed to give information to students interested in joining the program.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM. For official information please refer to &lt;a href=&#34;https://www.msne.ei.tum.de/en/home/&#34;&gt;the official MSNE homepage&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <guid>https://msne2016.github.io/2016/09/23/welcome-to-our-blog/</guid>
+      <description>We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.
+This blog serves two purposes:
+ We want to write a diary about the many great things that we are doing and experiencing. The blog is also supposed to give information to students interested in joining the program.  Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM.</description>
     </item>
     
   </channel>
