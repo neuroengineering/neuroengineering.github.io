@@ -7,10 +7,20 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Powered by [Hugo](//gohugo.io). Theme by [PPOffice](http://github.com/ppoffice).</copyright>
-    <lastBuildDate>Sat, 10 Jun 2017 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 14 Jul 2017 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://msne2016.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>13th Bernstein Conference, Göttingen</title>
+      <link>https://msne2016.github.io/2017/07/14/13th-bernstein-conference-g%C3%B6ttingen/</link>
+      <pubDate>Fri, 14 Jul 2017 12:00:00 +0000</pubDate>
+      
+      <guid>https://msne2016.github.io/2017/07/14/13th-bernstein-conference-g%C3%B6ttingen/</guid>
+      <description>This september we visited the 13th Bernstein Conference organized by the Bernstein Center for Computational Neuroscience Göttingen (BCCN Göttingen) in Göttingen.
+Posters by NST Faculty and MSNE students  Tayeb Z, Erçelik E, Conradt J (2017) Decoding of EEG Brain Signals using Spiking Neural Networks on SpiNNaker Neuromorphic Hardware. Bernstein Conference 2017. doi: 10.12751/nncn.bc2017.0100 Widderich C, Everding L, Richter C, Conradt J (2017) A Cooperative Stereo Matching Neural Network on TrueNorth.</description>
+    </item>
     
     <item>
       <title>MSNE team &#39;Neuruns&#39; at the ENB EliteCup 2017</title>
