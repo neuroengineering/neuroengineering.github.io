@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>MSNE Blog</title>
-    <meta name="generator" content="Hugo 0.30" />
+    <meta name="generator" content="Hugo 0.37.1" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="M.Sc. Neuroengineering">
@@ -30,7 +30,7 @@
 
 
 
-<meta property="og:updated_time" content="2017-10-23T12:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2018-03-13T12:00:00&#43;00:00"/>
 
 
 
@@ -47,7 +47,8 @@
 <meta itemprop="description" content="">
 
 
-    <meta name="twitter:card" content="summary"/><meta name="twitter:title" content="MSNE Blog"/>
+    <meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="MSNE Blog"/>
 <meta name="twitter:description" content=""/>
 
     
@@ -163,7 +164,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        9
+        11
         <span></span>
       </div>
       <div class="article-info-block">
@@ -241,6 +242,276 @@
 
     <section id="main">
     
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/" itemprop="url">
+                <img src="https://msne2016.github.io/img/180321-ik.jpg" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/">
+    <h1 class="article-title" itemprop="name">
+        Interdisciplinary College 2018
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-03-13 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-03-13</time>
+            &middot;
+            429
+            
+            &middot;
+            3
+            
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://msne2016.github.io/tags/events">events</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    From 9th to 16th March, MSNE students Auguste, Pranshul, Steffen and Nicolas attended the Interdisciplinary College (IK) in Günne. Since 1997, this annual spring school brings together students and researchers from the fields of computational neuroscience, neuroscience, artificial intelligence, robotics, cognitive sciences and philosophy.
+The overall topic of this year Me, Myself and I was approached from various different angles through the lenses of the different scientific disciplines.
+Among many other lectures, we enthusiastically attended the lecture series of MSNE faculty Prof.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/">
+                        
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/" data-id="9addf06c31b9e00b2aeca2db940326bd" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" itemprop="url">
+                <img src="https://msne2016.github.io/img/hbp-2nd-conference/hill.jpg" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/">
+    <h1 class="article-title" itemprop="name">
+        2nd HBP Student Conference - Transdisciplinary Research Linking Neuroscience, Brain Medicine and Computer Science
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-02-14 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-02-14</time>
+            &middot;
+            1307
+            
+            &middot;
+            7
+            
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://msne2016.github.io/tags/events">events</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    The 2nd HBP Student Conference took place in Ljubljana, Slowenia, from 14 to 16 February 2018 and and offered a rich program covering different aspects of Neuroscience and Computational Methods within Neuroscience.
+Apart from invited talks, MSc and PhD students got the opportunity to present both original and ongoing research in four oral and two poster sessions, comprised of the topics
+ Neurorobotics, Neuromorphic Computing, Theoretical Neuroscience Medical Informatics High Performance Computing, Brain Simulation Human Brain/Mouse Brain Organisation, Systems and Cognitive Neuroscience  Wednesday: Arrival, Neurorobotics and Kickoff I particularly perceived the conference as an effort of bringing together scientists from neuroscience and computer science and as an effort to improve communication between the fields and enhance mutual understanding.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/">
+                        
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" data-id="7f3e482a018a85a65e05102c89afb455" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
     
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
@@ -1315,143 +1586,15 @@ Standing around a stump that served as a table for our Glühwein cups, we also t
         </div>
     </article>
     
-    <article class="article article-type-post" itemscope="" itemprop="blogPost">
-        <div class="article-inner">
-            
-            <a href="https://msne2016.github.io/2016/09/23/welcome-to-our-blog/" itemprop="url">
-                <img src="https://msne2016.github.io/img/160920-msne-welcome.jpg" class="article-banner">
-            
-            </a>
-
-            <header class="article-header">
-    <a href="https://msne2016.github.io/2016/09/23/welcome-to-our-blog/">
-    <h1 class="article-title" itemprop="name">
-        Welcome to our blog!
-    </h1>
-    </a>
-    <div class="article-meta">
-
-        
-        <div class="article-date">
-            <i class="fa fa-calendar"></i>
-            <time datetime="2016-09-23 18:00:00 &#43;0000 UTC" itemprop="datePublished">2016-09-23</time>
-            &middot;
-            94
-            
-            &middot;
-            1
-            
-        </div>
-        
-        
-
-        
-            
-            
-            <div class="article-category">
-                <i class="fa fa-tags"></i>
-                
-                
-                <a class="article-category-link" href="https://msne2016.github.io/tags/events">events</a>
-                
-                
-            </div>
-            
-        
-    </div>
-</header>
-
-            <div class="article-entry" itemprop="articleBody">
-                <p>
-                    We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.
-This blog serves two purposes:
- We want to write a diary about the many great things that we are doing and experiencing. The blog is also supposed to give information to students interested in joining the program.  Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM.
-                    <br>
-                </p>
-                <p class="article-more-link">
-                    <a href="https://msne2016.github.io/2016/09/23/welcome-to-our-blog/">
-                        
-                    </a>
-                </p>
-            </div>
-            <footer class="article-footer">
-    <a data-url="https://msne2016.github.io/2016/09/23/welcome-to-our-blog/" data-id="9d94ba1d0d1d33ca4d29c6633a10b492" class="article-share-link">
-        <i class="fa fa-share"></i>
-        
-    </a>
-    
-
-    <script>
-    (function ($) {
-        
-        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
-            __SHARE_BUTTON_BINDED__ = true;
-        } else {
-            return;
-        }
-        $('body').on('click', function() {
-            $('.article-share-box.on').removeClass('on');
-        }).on('click', '.article-share-link', function(e) {
-            e.stopPropagation();
-
-            var $this = $(this),
-                url = $this.attr('data-url'),
-                encodedUrl = encodeURIComponent(url),
-                id = 'article-share-box-' + $this.attr('data-id'),
-                offset = $this.offset(),
-                box;
-
-            if ($('#' + id).length) {
-                box = $('#' + id);
-
-                if (box.hasClass('on')){
-                    box.removeClass('on');
-                    return;
-                }
-            } else {
-                var html = [
-                    '<div id="' + id + '" class="article-share-box">',
-                        '<input class="article-share-input" value="' + url + '">',
-                        '<div class="article-share-links">',
-                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
-                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
-                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
-                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
-                        '</div>',
-                    '</div>'
-                ].join('');
-
-              box = $(html);
-
-              $('body').append(box);
-            }
-
-            $('.article-share-box.on').hide();
-
-            box.css({
-                top: offset.top + 25,
-                left: offset.left
-            }).addClass('on');
-
-        }).on('click', '.article-share-box', function (e) {
-            e.stopPropagation();
-        }).on('click', '.article-share-box-input', function () {
-            $(this).select();
-        }).on('click', '.article-share-box-link', function (e) {
-            e.preventDefault();
-            e.stopPropagation();
-
-            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
-        });
-    })(jQuery);
-    </script>
-</footer>
-
-        </div>
-    </article>
-    
 
     <nav id="page-nav">
+
+    
+    
+        <a class="extend next" rel="next" href="https://msne2016.github.io/page/2/">
+             »
+        </a>
+    
 
 </nav>
 
@@ -1466,6 +1609,40 @@ This blog serves two purposes:
     </h3>
     <div class="widget">
         <ul id="recent-post">
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://msne2016.github.io/img/180321-ik.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/" class="title">Interdisciplinary College 2018</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-03-13 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-03-13</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
+                    <a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://msne2016.github.io/img/hbp-2nd-conference/hill.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" class="title">2nd HBP Student Conference - Transdisciplinary Research Linking Neuroscience, Brain Medicine and Computer Science</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-02-14 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-02-14</time>
+                    </p>
+                </div>
+            </li>
             
             <li>
                 <div class="item-thumbnail">
@@ -1518,40 +1695,6 @@ This blog serves two purposes:
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://msne2016.github.io/img/team_picture.jpeg)" alt="MSNE Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://msne2016.github.io/2017/06/10/msne-team-neuruns-at-the-enb-elitecup-2017/" class="title">MSNE team &#39;Neuruns&#39; at the ENB EliteCup 2017</a></p>
-                    <p class="item-date">
-                        <time datetime="2017-06-10 12:00:00 &#43;0000 UTC" itemprop="datePublished">2017-06-10</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://msne2016.github.io/img/170517-retreat-1.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://msne2016.github.io/2017/05/14/spring-2017-msne-retreat/" class="title">Spring 2017 MSNE Retreat</a></p>
-                    <p class="item-date">
-                        <time datetime="2017-05-14 12:00:00 &#43;0000 UTC" itemprop="datePublished">2017-05-14</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -1578,7 +1721,7 @@ This blog serves two purposes:
                 <a class="category-list-link" href="https://msne2016.github.io/tags/events">
                     events
                 </a>
-                <span class="category-list-count">9</span>
+                <span class="category-list-count">11</span>
             </li>
             
         </ul>
@@ -1616,7 +1759,7 @@ This blog serves two purposes:
 <footer id="footer">
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2017
+      &copy; 2018
       Powered by <a href="//gohugo.io">Hugo</a>. Theme by <a href="http://github.com/ppoffice">PPOffice</a>.
     </div>
   </div>
