@@ -7,7 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>All rights reserved.</copyright>
-    <lastBuildDate>Tue, 13 Mar 2018 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Apr 2018 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://msne2016.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -15,9 +15,18 @@
     <item>
       <title>Events</title>
       <link>https://msne2016.github.io/tags/events/</link>
-      <pubDate>Tue, 13 Mar 2018 12:00:00 +0000</pubDate>
+      <pubDate>Thu, 19 Apr 2018 12:00:00 +0000</pubDate>
       
       <guid>https://msne2016.github.io/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tum</title>
+      <link>https://msne2016.github.io/tags/tum/</link>
+      <pubDate>Thu, 19 Apr 2018 12:00:00 +0000</pubDate>
+      
+      <guid>https://msne2016.github.io/tags/tum/</guid>
       <description></description>
     </item>
     
