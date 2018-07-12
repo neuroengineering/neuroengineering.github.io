@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>MSNE Blog</title>
-    <meta name="generator" content="Hugo 0.40.3" />
+    <meta name="generator" content="Hugo 0.42.2" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="M.Sc. Neuroengineering">
@@ -31,7 +31,7 @@
 
 
 
-<meta property="og:updated_time" content="2018-06-09T12:00:00&#43;00:00"/>
+<meta property="og:updated_time" content="2018-06-27T12:00:00&#43;00:00"/>
 
 
 
@@ -177,7 +177,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        15
+        16
         <span></span>
       </div>
       <div class="article-info-block">
@@ -255,6 +255,145 @@
 
     <section id="main">
     
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <a href="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/" itemprop="url">
+                <img src="https://msne2016.github.io/img/180627-clin-neurotech.jpg" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/">
+    <h1 class="article-title" itemprop="name">
+        Conference on Clinical Neurotechnologies and Healthy Aging
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-06-27 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-06-27</time>
+            &middot;
+            108
+            
+            &middot;
+            1
+            
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://msne2016.github.io/tags/events">events</a>
+                &middot;
+                
+                
+                <a class="article-category-link" href="https://msne2016.github.io/tags/tum">tum</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    In June, Nicolas and I made our way to Tübingen to attend the German-Israeli Conference on Clinical Neurotechnologies and Healthy Aging.
+The focus lay on brain stimulation which could even be tested during the coffee breaks (I prefer not to show the video of my involuntarily kicking legs here). When speaking of the &lsquo;brain&rsquo; the retina is also meant (of course).
+On the last day the MedTech Startup School offered an Open Innovation Day where we discussed several aspects of founding a Neuro-Tech start-up.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/">
+                        
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/" data-id="cde87d6b5a8d8969c684842a17a0d53b" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
     
     <article class="article article-type-post" itemscope="" itemprop="blogPost">
         <div class="article-inner">
@@ -2295,6 +2434,23 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://msne2016.github.io/img/180627-clin-neurotech.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/" class="title">Conference on Clinical Neurotechnologies and Healthy Aging</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-06-27 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-06-27</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://msne2016.github.io/2018/06/09/msne-team-neuruns-at-the-enb-elitecup-2018/" class="thumbnail">
                     
                         <span style="background-image:url(https://msne2016.github.io/img/180609-elite-cup/team.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
@@ -2357,23 +2513,6 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
                     <p class="item-title"><a href="https://msne2016.github.io/2018/03/13/interdisciplinary-college-2018/" class="title">Interdisciplinary College 2018</a></p>
                     <p class="item-date">
                         <time datetime="2018-03-13 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-03-13</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://msne2016.github.io/img/hbp-2nd-conference/hill.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://msne2016.github.io/2018/02/14/2nd-hbp-student-conference---transdisciplinary-research-linking-neuroscience-brain-medicine-and-computer-science/" class="title">2nd HBP Student Conference - Transdisciplinary Research Linking Neuroscience, Brain Medicine and Computer Science</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-02-14 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-02-14</time>
                     </p>
                 </div>
             </li>
