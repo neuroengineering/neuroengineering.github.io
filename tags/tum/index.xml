@@ -2,22 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tum on MSNE Blog</title>
-    <link>https://msne2016.github.io/tags/tum/</link>
+    <link>http://neuroengineering.blog/tags/tum/</link>
     <description>Recent content in Tum on MSNE Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All rights reserved.</copyright>
     <lastBuildDate>Wed, 27 Jun 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://msne2016.github.io/tags/tum/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://neuroengineering.blog/tags/tum/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Conference on Clinical Neurotechnologies and Healthy Aging</title>
-      <link>https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/</link>
+      <link>http://neuroengineering.blog/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/</link>
       <pubDate>Wed, 27 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/</guid>
+      <guid>http://neuroengineering.blog/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/</guid>
       <description>In June, Nicolas and I made our way to Tübingen to attend the German-Israeli Conference on Clinical Neurotechnologies and Healthy Aging.
 The focus lay on brain stimulation which could even be tested during the coffee breaks (I prefer not to show the video of my involuntarily kicking legs here). When speaking of the &amp;lsquo;brain&amp;rsquo; the retina is also meant (of course).
 On the last day the MedTech Startup School offered an Open Innovation Day where we discussed several aspects of founding a Neuro-Tech start-up.</description>
@@ -25,10 +24,10 @@ On the last day the MedTech Startup School offered an Open Innovation Day where 
     
     <item>
       <title>CoC Neuro-Engineering Networking Workshop</title>
-      <link>https://msne2016.github.io/2018/04/19/coc-neuro-engineering-networking-workshop/</link>
+      <link>http://neuroengineering.blog/2018/04/19/coc-neuro-engineering-networking-workshop/</link>
       <pubDate>Thu, 19 Apr 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/2018/04/19/coc-neuro-engineering-networking-workshop/</guid>
+      <guid>http://neuroengineering.blog/2018/04/19/coc-neuro-engineering-networking-workshop/</guid>
       <description>This April, first and second year students as well as faculty members of the MSNE met at the Networking Workshop of TU Munich&amp;rsquo;s Center of Competence in Neuroengineering.
 Event agenda 14:00 Introductory remarks by Prof. Gordon Cheng Chair for Cognitive Systems (TUM)
 14:10-14:30 Prof. Ilona Grunwald Kadow Neuronal Circuits and Metabolism, School of Life Sciences Weihenstephan (TUM) &amp;ldquo;Asking the fly to reveal neural network principles underlying behavior&amp;rdquo;

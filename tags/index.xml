@@ -2,40 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on MSNE Blog</title>
-    <link>https://msne2016.github.io/tags/</link>
+    <link>http://neuroengineering.blog/tags/</link>
     <description>Recent content in Tags on MSNE Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>All rights reserved.</copyright>
     <lastBuildDate>Wed, 27 Jun 2018 12:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://msne2016.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://neuroengineering.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Events</title>
-      <link>https://msne2016.github.io/tags/events/</link>
+      <link>http://neuroengineering.blog/tags/events/</link>
       <pubDate>Wed, 27 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/tags/events/</guid>
+      <guid>http://neuroengineering.blog/tags/events/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Imprint</title>
-      <link>https://msne2016.github.io/tags/imprint/</link>
+      <link>http://neuroengineering.blog/tags/imprint/</link>
       <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/tags/imprint/</guid>
+      <guid>http://neuroengineering.blog/tags/imprint/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tum</title>
-      <link>https://msne2016.github.io/tags/tum/</link>
+      <link>http://neuroengineering.blog/tags/tum/</link>
       <pubDate>Wed, 27 Jun 2018 12:00:00 +0000</pubDate>
       
-      <guid>https://msne2016.github.io/tags/tum/</guid>
+      <guid>http://neuroengineering.blog/tags/tum/</guid>
       <description></description>
     </item>
     
