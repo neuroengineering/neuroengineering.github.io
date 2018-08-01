@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Imprint on MSNE Blog</title>
+    <link>https://neuroengineering.blog/tags/imprint/</link>
+    <description>Recent content in Imprint on MSNE Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 01 Jan 2000 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://neuroengineering.blog/tags/imprint/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Imprint</title>
+      <link>https://neuroengineering.blog/2000/01/01/imprint/</link>
+      <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2000/01/01/imprint/</guid>
+      <description>Steffen Schneider, Nicolas Berberich Technische Universität München Arcisstraße 21 80333 München
+steffen.schneider@tum.de
+Angaben gemäß § 5 TMG.
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
+    
+  </channel>
+</rss>
