@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>MSNE Blog</title>
-    <meta name="generator" content="Hugo 0.42.2" />
+    <meta name="generator" content="Hugo 0.46" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="M.Sc. Neuroengineering">
@@ -185,7 +185,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        19
+        20
         <span></span>
       </div>
       <div class="article-info-block">
@@ -323,6 +323,140 @@
             </div>
             <footer class="article-footer">
     <a data-url="https://neuroengineering.blog/2018/07/04/farewell-for-prof.-j%C3%B6rg-conradt/" data-id="cb5bf68c35dcc5514e1d5a3e5e0fd659" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+        </div>
+    </article>
+    
+    <article class="article article-type-post" itemscope="" itemprop="blogPost">
+        <div class="article-inner">
+            
+            <a href="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/" itemprop="url">
+                <img src="https://neuroengineering.blog/img/robotcare/title_robotcare.JPG" class="article-banner">
+            
+            </a>
+
+            <header class="article-header">
+    <a href="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/">
+    <h1 class="article-title" itemprop="name">
+        RobotCare - Future of Care between Human and Machine
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2018-07-02 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-07-02</time>
+            &middot;
+            624
+            
+            &middot;
+            3
+            
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://neuroengineering.blog/tags/events">events</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+            <div class="article-entry" itemprop="articleBody">
+                <p>
+                    Once we grow old, will we still be cared for by humans or will robots have taken over?
+According to Science and Technology Studies (STS) this is the wrong question to ask. There is no technological determinism - the course of technological development is not written in stone - we humans have the ultimate say in the matter of what becomes reality and what doesn&rsquo;t, or at least we can play a role in the complex interplay of social and technical factors.
+                    <br>
+                </p>
+                <p class="article-more-link">
+                    <a href="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/">
+                        
+                    </a>
+                </p>
+            </div>
+            <footer class="article-footer">
+    <a data-url="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/" data-id="41fe0a437cbdb3937d4a939877965f46" class="article-share-link">
         <i class="fa fa-share"></i>
         
     </a>
@@ -2575,7 +2709,7 @@ This blog serves two purposes:
             <i class="fa fa-calendar"></i>
             <time datetime="2010-01-01 12:00:00 &#43;0000 UTC" itemprop="datePublished">2010-01-01</time>
             &middot;
-            334
+            389
             
             &middot;
             2
@@ -2860,6 +2994,23 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://neuroengineering.blog/img/robotcare/title_robotcare.JPG)" alt="MSNE Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://neuroengineering.blog/2018/07/02/robotcare---future-of-care-between-human-and-machine/" class="title">RobotCare - Future of Care between Human and Machine</a></p>
+                    <p class="item-date">
+                        <time datetime="2018-07-02 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-07-02</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://neuroengineering.blog/2018/06/27/conference-on-clinical-neurotechnologies-and-healthy-aging/" class="thumbnail">
                     
                         <span style="background-image:url(https://neuroengineering.blog/img/180627-clin-neurotech.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
@@ -2905,23 +3056,6 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
                     <p class="item-title"><a href="https://neuroengineering.blog/2018/06/09/msne-team-neuruns-at-the-enb-elitecup-2018/" class="title">MSNE team &#39;Neuruns&#39; at the ENB EliteCup 2018</a></p>
                     <p class="item-date">
                         <time datetime="2018-06-09 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-06-09</time>
-                    </p>
-                </div>
-            </li>
-            
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://neuroengineering.blog/2018/06/01/2nd-msne-retreat/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://neuroengineering.blog/img/180603-retreat/header.jpg)" alt="MSNE Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://neuroengineering.blog/2018/06/01/2nd-msne-retreat/" class="title">2nd MSNE Retreat</a></p>
-                    <p class="item-date">
-                        <time datetime="2018-06-01 12:00:00 &#43;0000 UTC" itemprop="datePublished">2018-06-01</time>
                     </p>
                 </div>
             </li>
