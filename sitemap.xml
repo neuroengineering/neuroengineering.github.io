@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neuroengineering.blog/about/datenschutz/</loc>
+    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/about/impressium/</loc>
+    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neuroengineering.blog/2018/11/16/msne-research-internships/</loc>
     <lastmod>2018-11-16T18:00:00+00:00</lastmod>
   </url>
@@ -103,13 +113,30 @@
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/2010/01/01/msne-students/</loc>
+    <loc>https://neuroengineering.blog/about/links/</loc>
     <lastmod>2010-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/2000/01/01/imprint/</loc>
-    <lastmod>2000-01-01T12:00:00+00:00</lastmod>
+    <loc>https://neuroengineering.blog/about/research/</loc>
+    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/about/students/</loc>
+    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/about/</loc>
+    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/about/</loc>
+    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
@@ -125,13 +152,7 @@
   
   <url>
     <loc>https://neuroengineering.blog/tags/imprint/</loc>
-    <lastmod>2000-01-01T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/</loc>
-    <lastmod>2018-11-16T18:00:00+00:00</lastmod>
+    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -142,8 +163,20 @@
   </url>
   
   <url>
+    <loc>https://neuroengineering.blog/tags/research/</loc>
+    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://neuroengineering.blog/tags/</loc>
-    <lastmod>2018-11-16T18:00:00+00:00</lastmod>
+    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/</loc>
+    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

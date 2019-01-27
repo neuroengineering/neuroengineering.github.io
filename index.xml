@@ -1,15 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>MSNE Blog</title>
+    <title>The Neurogineering Blog</title>
     <link>https://neuroengineering.blog/</link>
-    <description>Recent content on MSNE Blog</description>
+    <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 16 Nov 2018 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Datenschutzerklärung</title>
+      <link>https://neuroengineering.blog/about/datenschutz/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/datenschutz/</guid>
+      <description>Datenschutzerklärung Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten&amp;rdquo;) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot&amp;rdquo;). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung&amp;rdquo; oder „Verantwortlicher&amp;rdquo; verweisen wir auf die Definitionen im Art.</description>
+    </item>
+    
+    <item>
+      <title>Impressium (Imprint)</title>
+      <link>https://neuroengineering.blog/about/impressium/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/impressium/</guid>
+      <description>Steffen Schneider, Nicolas Berberich Technische Universität München Arcisstraße 21 80333 München
+steffen.schneider@tum.de
+Angaben gemäß § 5 TMG.
+Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+    </item>
     
     <item>
       <title>MSNE Research Internships</title>
@@ -218,24 +239,31 @@ This blog serves two purposes:
     </item>
     
     <item>
-      <title>MSNE Students</title>
-      <link>https://neuroengineering.blog/2010/01/01/msne-students/</link>
+      <title>Links</title>
+      <link>https://neuroengineering.blog/about/links/</link>
       <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/2010/01/01/msne-students/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4); width:50%; height: 350px; max-width:200px; margin: 10px 5px; text-align: center; background-color: #f5f5f5; padding: 5px 5px 5px 5px; float: left; } card.col1 { float: left; width: 20%; } card.col2 { float: left; width: 70%; } card.title { font-size: 100pt; } a.link { text-decoration: none; font-size: 18px; } .image-cropper { width: 100px; height: 100px; margin: 10px auto; position: relative; overflow: hidden; border-radius: 50%; } img { display: inline; margin-left: auto; margin-right: auto; height: 100%; width: 100%; margin: 0 auto;.</description>
+      <guid>https://neuroengineering.blog/about/links/</guid>
+      <description> Official program page with information about application, faculty members and the program itself: msne.ei.tum.de Our Github repository with this page and other projects: github.com/neuroengineering The homepage of the Neuroengineering Journal Club: neuroengineering.blog/njc/  </description>
     </item>
     
     <item>
-      <title>Imprint</title>
-      <link>https://neuroengineering.blog/2000/01/01/imprint/</link>
-      <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
+      <title>Research</title>
+      <link>https://neuroengineering.blog/about/research/</link>
+      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/2000/01/01/imprint/</guid>
-      <description>Steffen Schneider, Nicolas Berberich Technische Universität München Arcisstraße 21 80333 München
-steffen.schneider@tum.de
-Angaben gemäß § 5 TMG.
-Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen.</description>
+      <guid>https://neuroengineering.blog/about/research/</guid>
+      <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
+Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
+    </item>
+    
+    <item>
+      <title>Students</title>
+      <link>https://neuroengineering.blog/about/students/</link>
+      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/students/</guid>
+      <description>.card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4); width:50%; height: 350px; max-width:200px; margin: 10px 5px; text-align: center; background-color: #f5f5f5; padding: 5px 5px 5px 5px; float: left; } card.col1 { float: left; width: 20%; } card.col2 { float: left; width: 70%; } card.title { font-size: 100pt; } a.link { text-decoration: none; font-size: 18px; } .image-cropper { width: 100px; height: 100px; margin: 10px auto; position: relative; overflow: hidden; border-radius: 50%; } img { display: inline; margin-left: auto; margin-right: auto; height: 100%; width: 100%; margin: 0 auto;.</description>
     </item>
     
   </channel>

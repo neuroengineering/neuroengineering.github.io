@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Research on The Neurogineering Blog</title>
+    <link>https://neuroengineering.blog/tags/research/</link>
+    <description>Recent content in Research on The Neurogineering Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 2010 12:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://neuroengineering.blog/tags/research/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Research</title>
+      <link>https://neuroengineering.blog/about/research/</link>
+      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/research/</guid>
+      <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
+Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,22 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Imprint on MSNE Blog</title>
+    <title>Imprint on The Neurogineering Blog</title>
     <link>https://neuroengineering.blog/tags/imprint/</link>
-    <description>Recent content in Imprint on MSNE Blog</description>
+    <description>Recent content in Imprint on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 01 Jan 2000 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/imprint/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Imprint</title>
-      <link>https://neuroengineering.blog/2000/01/01/imprint/</link>
-      <pubDate>Sat, 01 Jan 2000 12:00:00 +0000</pubDate>
+      <title>Datenschutzerklärung</title>
+      <link>https://neuroengineering.blog/about/datenschutz/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/2000/01/01/imprint/</guid>
+      <guid>https://neuroengineering.blog/about/datenschutz/</guid>
+      <description>Datenschutzerklärung Diese Datenschutzerklärung klärt Sie über die Art, den Umfang und Zweck der Verarbeitung von personenbezogenen Daten (nachfolgend kurz „Daten&amp;rdquo;) im Rahmen der Erbringung unserer Leistungen sowie innerhalb unseres Onlineangebotes und der mit ihm verbundenen Webseiten, Funktionen und Inhalte sowie externen Onlinepräsenzen, wie z.B. unser Social Media Profile auf (nachfolgend gemeinsam bezeichnet als „Onlineangebot&amp;rdquo;). Im Hinblick auf die verwendeten Begrifflichkeiten, wie z.B. „Verarbeitung&amp;rdquo; oder „Verantwortlicher&amp;rdquo; verweisen wir auf die Definitionen im Art.</description>
+    </item>
+    
+    <item>
+      <title>Impressium (Imprint)</title>
+      <link>https://neuroengineering.blog/about/impressium/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/impressium/</guid>
       <description>Steffen Schneider, Nicolas Berberich Technische Universität München Arcisstraße 21 80333 München
 steffen.schneider@tum.de
 Angaben gemäß § 5 TMG.
