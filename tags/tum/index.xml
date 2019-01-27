@@ -34,23 +34,5 @@ Event agenda 14:00 Introductory remarks by Prof. Gordon Cheng Chair for Cognitiv
 14:30-14:50 Prof. Markus Ploner Heisenberg Professor of Human Pain Research, Department of Neurology, School of Medicine (TUM) &amp;ldquo;Neuroengineering approaches to the understanding, diagnosis and therapy of pain&amp;rdquo;</description>
     </item>
     
-    <item>
-      <title>Links</title>
-      <link>https://neuroengineering.blog/about/links/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/about/links/</guid>
-      <description> Official program page with information about application, faculty members and the program itself: msne.ei.tum.de Our Github repository with this page and other projects: github.com/neuroengineering The homepage of the Neuroengineering Journal Club: neuroengineering.blog/njc/  </description>
-    </item>
-    
-    <item>
-      <title>Students</title>
-      <link>https://neuroengineering.blog/about/students/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/about/students/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4); width:50%; height: 350px; max-width:200px; margin: 10px 5px; text-align: center; background-color: #f5f5f5; padding: 5px 5px 5px 5px; float: left; } card.col1 { float: left; width: 20%; } card.col2 { float: left; width: 70%; } card.title { font-size: 100pt; } a.link { text-decoration: none; font-size: 18px; } .image-cropper { width: 100px; height: 100px; margin: 10px auto; position: relative; overflow: hidden; border-radius: 50%; } img { display: inline; margin-left: auto; margin-right: auto; height: 100%; width: 100%; margin: 0 auto;.</description>
-    </item>
-    
   </channel>
 </rss>

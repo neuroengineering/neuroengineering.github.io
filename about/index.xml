@@ -33,12 +33,13 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
     </item>
     
     <item>
-      <title>Links</title>
-      <link>https://neuroengineering.blog/about/links/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
+      <title>Journal Club</title>
+      <link>https://neuroengineering.blog/about/journalclub/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/about/links/</guid>
-      <description> Official program page with information about application, faculty members and the program itself: msne.ei.tum.de Our Github repository with this page and other projects: github.com/neuroengineering The homepage of the Neuroengineering Journal Club: neuroengineering.blog/njc/  </description>
+      <guid>https://neuroengineering.blog/about/journalclub/</guid>
+      <description>Science communication is an essential aspect of scientific research. It enables scientists and researchers to inform each other, as well as the public, about science progress and invoke scientific, political and ethical thinking. The general purpose of a journal club is to facilitate the review of research studies and to discuss implications of the study in practice. In general, a journal club helps with:
+ Sharing knowledge of current research Facilitating the learning process Enhancing literature critique and appraisal skills Encouraging interaction and dialogue with other researchers Encouraging research utilization, and Promoting team building  The Neuroengineering Journal Club (NJC) is all about the above-mentioned objectives.</description>
     </item>
     
     <item>
@@ -49,15 +50,6 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
       <guid>https://neuroengineering.blog/about/research/</guid>
       <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
 Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
-    </item>
-    
-    <item>
-      <title>Students</title>
-      <link>https://neuroengineering.blog/about/students/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/about/students/</guid>
-      <description>.card { box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4); width:50%; height: 350px; max-width:200px; margin: 10px 5px; text-align: center; background-color: #f5f5f5; padding: 5px 5px 5px 5px; float: left; } card.col1 { float: left; width: 20%; } card.col2 { float: left; width: 70%; } card.title { font-size: 100pt; } a.link { text-decoration: none; font-size: 18px; } .image-cropper { width: 100px; height: 100px; margin: 10px auto; position: relative; overflow: hidden; border-radius: 50%; } img { display: inline; margin-left: auto; margin-right: auto; height: 100%; width: 100%; margin: 0 auto;.</description>
     </item>
     
   </channel>

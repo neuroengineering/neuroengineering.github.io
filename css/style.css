@@ -2172,3 +2172,74 @@ ol.toc {
     width: 50px;
     border-radius: 50%;
 }
+.card {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.4);
+    width:50%;
+    min-height: 300px;
+    height: 100%;
+    max-width:200px;
+    margin: 10px 6px;
+    text-align: center;
+    background-color: #f5f5f5;
+    padding: 5px 5px 5px 5px;
+    display:inline-block;
+    vertical-align: text-top;
+}
+
+card.col1 {
+    float: left;
+    width: 20%;
+}
+card.col2 {
+    float: left;
+    width: 70%;
+}
+card.title {
+    font-size: 100pt;
+}
+
+a.link {
+    text-decoration: none;
+    font-size: 18px;
+}
+
+.image-cropper {
+    width: 100px;
+    height: 100px;
+    position: relative;
+    overflow: hidden;
+    border-radius: 50%;
+    margin: 0px auto 5px auto;
+
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+
+.card-title {
+    margin: 0px 5px 5px 5px;
+}
+
+.card-text {
+    margin: 0px 5px 5px 5px;
+}
+
+.image-cropper img {
+    display: inline;
+    width: 100%;
+}
+
+.linklist {
+    height:100%;
+    margin: 0px auto 10px auto;
+    font-size: 150%;
+}
+    
+.linklist a {
+    color : grey;
+    vertical-align: text-center;
+}
+
+.linklist a:hover {
+  color: #66d9ef;
+  font-size: 110%;
+}
