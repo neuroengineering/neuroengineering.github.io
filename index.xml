@@ -6,10 +6,19 @@
     <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 10 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MSNE List of Students</title>
+      <link>https://neuroengineering.blog/people/</link>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/people/</guid>
+      <description>This is a list of students enrolled in the MSNE program since program start in 2016.</description>
+    </item>
     
     <item>
       <title>MSNE Research Internships in Manchester and Atlanta</title>
@@ -28,15 +37,6 @@ Lucas: University of Manchester, UK In the 2018 spring break, from February to A
       
       <guid>https://neuroengineering.blog/2019/02/20/15x4-munich/</guid>
       <description>At the beginning when we (as a second batch of MSNE) started this program, Steffen shared one event with us. It was about 4 lectures that were 15 minutes each and mostly related to Neuroscience. Around 10 fresh minds, eager for new knowledge, especially if related to neuroscience, went to the event. It left me a very good impression and after this event, the events from 15x4 Munich were visited regularly by students from our program.</description>
-    </item>
-    
-    <item>
-      <title>MSNE List of Students</title>
-      <link>https://neuroengineering.blog/people/</link>
-      <pubDate>Sun, 27 Jan 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/people/</guid>
-      <description>This is a list of students enrolled in the MSNE program since program start in 2016.</description>
     </item>
     
     <item>

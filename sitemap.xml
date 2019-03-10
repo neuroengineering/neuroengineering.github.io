@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neuroengineering.blog/people/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</loc>
     <lastmod>2019-03-09T12:00:00+00:00</lastmod>
   </url>
@@ -10,11 +15,6 @@
   <url>
     <loc>https://neuroengineering.blog/2019/02/20/15x4-munich/</loc>
     <lastmod>2019-02-20T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/people/</loc>
-    <lastmod>2019-01-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -211,7 +211,7 @@
   
   <url>
     <loc>https://neuroengineering.blog/</loc>
-    <lastmod>2019-03-09T12:00:00+00:00</lastmod>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
