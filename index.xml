@@ -6,10 +6,29 @@
     <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 27 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 09 Mar 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MSNE Research Internships in Manchester and Atlanta</title>
+      <link>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</link>
+      <pubDate>Sat, 09 Mar 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</guid>
+      <description>As a part of our Master’s program, MSNE students explore labs outside of our programs in 6 to 8 week research internships. In this and a following series of posts, we collected stories of the experiences we made during our internships. In the second post, Lucas and Jonas share their impressions from their internships in Manchester and Atlanta.
+Lucas: University of Manchester, UK In the 2018 spring break, from February to April, I was part of the APT Advanced Processor Technologies Research Group at the University of Manchester.</description>
+    </item>
+    
+    <item>
+      <title>15x4 Munich</title>
+      <link>https://neuroengineering.blog/2019/02/20/15x4-munich/</link>
+      <pubDate>Wed, 20 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/02/20/15x4-munich/</guid>
+      <description>At the beginning when we (as a second batch of MSNE) started this program, Steffen shared one event with us. It was about 4 lectures that were 15 minutes each and mostly related to Neuroscience. Around 10 fresh minds, eager for new knowledge, especially if related to neuroscience, went to the event. It left me a very good impression and after this event, the events from 15x4 Munich were visited regularly by students from our program.</description>
+    </item>
     
     <item>
       <title>MSNE List of Students</title>
@@ -52,11 +71,21 @@ Haftung für Inhalte Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für ei
     </item>
     
     <item>
-      <title>MSNE Research Internships</title>
-      <link>https://neuroengineering.blog/2018/11/16/msne-research-internships/</link>
+      <title>Neuroengineering Matinee (MSNE Summit 2019)</title>
+      <link>https://neuroengineering.blog/2019/01/16/neuroengineering-matinee-msne-summit-2019/</link>
+      <pubDate>Wed, 16 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/01/16/neuroengineering-matinee-msne-summit-2019/</guid>
+      <description>The Neuroengineering Matinee took place the morning of the 16th of January at the Vorhoelzer Forum. Led by Professor Jakob Macke, two guest talks were held:
+ Patrick van der Smagt, Volkswagen: Latent Optimal Control Srinivas Turaga, HHMI&amp;rsquo;s Janelia Research Campus: Connecting the Structure and Function of Neural Circuits  Afterwards, MSNE students held a presentation and poster session, introducing the audience to the research projects carried out during the program:</description>
+    </item>
+    
+    <item>
+      <title>MSNE Research Internships in Californa, Tübingen and Boston</title>
+      <link>https://neuroengineering.blog/2018/11/16/msne-research-internships-in-californa-t%C3%BCbingen-and-boston/</link>
       <pubDate>Fri, 16 Nov 2018 18:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/2018/11/16/msne-research-internships/</guid>
+      <guid>https://neuroengineering.blog/2018/11/16/msne-research-internships-in-californa-t%C3%BCbingen-and-boston/</guid>
       <description>As a part of our Master&amp;rsquo;s program, MSNE students explore labs outside of our programs in 6 to 8 week research internships. In this and a following series of posts, we collected stories of the experiences we made during our internships. In our first post, Pranshul, Annika and Vanessa share their impressions from interning in California, Tübingen and Boston.
 Pranshul: UC Davis with Dr. Clifford Saron I joined Dr. Clifford Saron’s lab at the University of California, Davis.</description>
     </item>
@@ -286,6 +315,16 @@ This blog serves two purposes:
       <guid>https://neuroengineering.blog/about/research/</guid>
       <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
 Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://neuroengineering.blog/1/01/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/1/01/01/</guid>
+      <description>Report about Research Visit at Emory University, USA Jonas Braun, 21.02.2019
+During the summer of 2018 I joined Prof. Chethan Pandarinath&amp;rsquo;s Systems Neural Engineering Lab at the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University in Atlanta, USA, as a summer research intern. The lab is located at the Emory campus and is working on &amp;ldquo;understanding how large populations of neurons in the brain perform computations and represent intention&amp;rdquo; (from snel.</description>
     </item>
     
   </channel>
