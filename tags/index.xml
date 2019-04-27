@@ -6,22 +6,13 @@
     <description>Recent content in Tags on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 23 Sep 2016 18:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 03 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>About</title>
-      <link>https://neuroengineering.blog/tags/about/</link>
-      <pubDate>Fri, 23 Sep 2016 18:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Events</title>
+      <title>events</title>
       <link>https://neuroengineering.blog/tags/events/</link>
       <pubDate>Wed, 03 Apr 2019 12:00:00 +0000</pubDate>
       
@@ -30,25 +21,7 @@
     </item>
     
     <item>
-      <title>Imprint</title>
-      <link>https://neuroengineering.blog/tags/imprint/</link>
-      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/imprint/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Outreach</title>
-      <link>https://neuroengineering.blog/tags/outreach/</link>
-      <pubDate>Wed, 20 Feb 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/outreach/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Research</title>
+      <title>research</title>
       <link>https://neuroengineering.blog/tags/research/</link>
       <pubDate>Sat, 09 Mar 2019 12:00:00 +0000</pubDate>
       
@@ -57,11 +30,38 @@
     </item>
     
     <item>
-      <title>Tum</title>
+      <title>outreach</title>
+      <link>https://neuroengineering.blog/tags/outreach/</link>
+      <pubDate>Wed, 20 Feb 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/outreach/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>imprint</title>
+      <link>https://neuroengineering.blog/tags/imprint/</link>
+      <pubDate>Sat, 26 Jan 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/imprint/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tum</title>
       <link>https://neuroengineering.blog/tags/tum/</link>
       <pubDate>Wed, 27 Jun 2018 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/tags/tum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://neuroengineering.blog/tags/about/</link>
+      <pubDate>Fri, 23 Sep 2016 18:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/about/</guid>
       <description></description>
     </item>
     
