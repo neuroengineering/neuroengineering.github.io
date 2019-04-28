@@ -6,10 +6,19 @@
     <description>Recent content in research on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Mar 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/research/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>https://neuroengineering.blog/about/research/</link>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/research/</guid>
+      <description>Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler Soon: 3rd MSNE Retreat 2019  Conference Visits 2019  Computational and Systems Neuroscience 2019 (cosyne.org)  2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging Neuroscience 2018, San Diego (sfn.</description>
+    </item>
     
     <item>
       <title>MSNE Research Internships in Manchester and Atlanta</title>
@@ -29,16 +38,6 @@ Lucas: University of Manchester, UK In the 2018 spring break, from February to A
       <guid>https://neuroengineering.blog/2018/11/16/msne-research-internships-in-californa-t%C3%BCbingen-and-boston/</guid>
       <description>As a part of our Master&amp;rsquo;s program, MSNE students explore labs outside of our programs in 6 to 8 week research internships. In this and a following series of posts, we collected stories of the experiences we made during our internships. In our first post, Pranshul, Annika and Vanessa share their impressions from interning in California, Tübingen and Boston.
 Pranshul: UC Davis with Dr. Clifford Saron I joined Dr. Clifford Saron’s lab at the University of California, Davis.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://neuroengineering.blog/about/research/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/about/research/</guid>
-      <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
-Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
     </item>
     
   </channel>

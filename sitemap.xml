@@ -3,6 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://neuroengineering.blog/about/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/about/research/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/about/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/events/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/research/</loc>
+    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/people/</loc>
+    <lastmod>2019-04-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://neuroengineering.blog/2019/04/03/farewell-for-alex-knorr/</loc>
     <lastmod>2019-04-03T12:00:00+00:00</lastmod>
   </url>
@@ -14,37 +60,8 @@
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/tags/</loc>
-    <lastmod>2019-04-03T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/</loc>
-    <lastmod>2019-04-03T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/tags/events/</loc>
-    <lastmod>2019-04-03T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/people/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</loc>
     <lastmod>2019-03-09T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/tags/research/</loc>
-    <lastmod>2019-03-09T12:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -55,12 +72,6 @@
   <url>
     <loc>https://neuroengineering.blog/tags/outreach/</loc>
     <lastmod>2019-02-20T12:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/about/</loc>
-    <lastmod>2019-01-26T12:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -204,17 +215,6 @@
   <url>
     <loc>https://neuroengineering.blog/about/about/</loc>
     <lastmod>2016-09-23T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/tags/about/</loc>
-    <lastmod>2016-09-23T18:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/about/research/</loc>
-    <lastmod>2010-01-01T12:00:00+00:00</lastmod>
   </url>
   
   <url>

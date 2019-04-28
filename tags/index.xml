@@ -6,15 +6,24 @@
     <description>Recent content in Tags on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>about</title>
+      <link>https://neuroengineering.blog/tags/about/</link>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>events</title>
       <link>https://neuroengineering.blog/tags/events/</link>
-      <pubDate>Wed, 03 Apr 2019 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/tags/events/</guid>
       <description></description>
@@ -23,7 +32,7 @@
     <item>
       <title>research</title>
       <link>https://neuroengineering.blog/tags/research/</link>
-      <pubDate>Sat, 09 Mar 2019 12:00:00 +0000</pubDate>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/tags/research/</guid>
       <description></description>
@@ -53,15 +62,6 @@
       <pubDate>Wed, 27 Jun 2018 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/tags/tum/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://neuroengineering.blog/tags/about/</link>
-      <pubDate>Fri, 23 Sep 2016 18:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/about/</guid>
       <description></description>
     </item>
     

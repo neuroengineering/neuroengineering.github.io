@@ -6,10 +6,19 @@
     <description>Recent content in events on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 03 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 27 Apr 2019 12:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/events/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Research</title>
+      <link>https://neuroengineering.blog/about/research/</link>
+      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/about/research/</guid>
+      <description>Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler Soon: 3rd MSNE Retreat 2019  Conference Visits 2019  Computational and Systems Neuroscience 2019 (cosyne.org)  2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging Neuroscience 2018, San Diego (sfn.</description>
+    </item>
     
     <item>
       <title>Farewell for Alex Knorr</title>
@@ -235,16 +244,6 @@ Standing around a stump that served as a table for our Glühwein cups, we also t
       <description>We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.
 This blog serves two purposes:
  We want to write a diary about the many great things that we are doing and experiencing. The blog is also supposed to give information to students interested in joining the program.  Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM.</description>
-    </item>
-    
-    <item>
-      <title>Research</title>
-      <link>https://neuroengineering.blog/about/research/</link>
-      <pubDate>Fri, 01 Jan 2010 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/about/research/</guid>
-      <description> Research Projects Besides their final thesis project, MSNE students spend 15 weeks on additional two research projects over the course of their studies. In our blog post, Pranshul, Annika and Vanessa write about their experiences at UC Davis, the Max Planck Institute for Intelligent Systems and MIT.
-Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler  Conference Visits 2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging  2017  1st HBP Student Conference  Events (Co-) Organized by MSNE Students  RoboCare - Future of Care between Human and Machine Workshop on Learning in Brains and Machines  </description>
     </item>
     
   </channel>
