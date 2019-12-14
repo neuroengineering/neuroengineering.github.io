@@ -3,13 +3,48 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://neuroengineering.blog/people/</loc>
-    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+    <loc>https://neuroengineering.blog/tags/events/</loc>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/2019/06/22/neuruns-v3.0-in-the-elite-cup/</loc>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/post/</loc>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/social/</loc>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/</loc>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://neuroengineering.blog/</loc>
-    <lastmod>2019-12-14T00:00:00+00:00</lastmod>
+    <lastmod>2019-06-22T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/2019/06/05/1st-mbt-workshop-on-mobile-eeg-in-belgrade/</loc>
+    <lastmod>2019-06-05T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/2019/06/05/campus-run-2019/</loc>
+    <lastmod>2019-06-05T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://neuroengineering.blog/tags/research/</loc>
+    <lastmod>2019-06-05T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,22 +58,7 @@
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/tags/events/</loc>
-    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://neuroengineering.blog/about/research/</loc>
-    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/tags/research/</loc>
-    <lastmod>2019-04-27T12:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/tags/</loc>
     <lastmod>2019-04-27T12:00:00+00:00</lastmod>
   </url>
   
@@ -48,13 +68,13 @@
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/post/</loc>
-    <lastmod>2019-04-03T12:00:00+00:00</lastmod>
+    <loc>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</loc>
+    <lastmod>2019-03-09T12:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</loc>
-    <lastmod>2019-03-09T12:00:00+00:00</lastmod>
+    <loc>https://neuroengineering.blog/2019/02/27/computational-and-systems-neuroscience-meeting-2019/</loc>
+    <lastmod>2019-02-27T05:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -205,11 +225,6 @@
   <url>
     <loc>https://neuroengineering.blog/about/about/</loc>
     <lastmod>2016-09-23T18:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://neuroengineering.blog/1/01/01/</loc>
-    <priority>0</priority>
   </url>
   
   <url>

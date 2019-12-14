@@ -6,18 +6,39 @@
     <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 14 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>MSNE List of Students</title>
-      <link>https://neuroengineering.blog/people/</link>
-      <pubDate>Sat, 14 Dec 2019 00:00:00 +0000</pubDate>
+      <title>Neuruns v3.0 in the Elite Cup</title>
+      <link>https://neuroengineering.blog/2019/06/22/neuruns-v3.0-in-the-elite-cup/</link>
+      <pubDate>Sat, 22 Jun 2019 05:00:00 +0000</pubDate>
       
-      <guid>https://neuroengineering.blog/people/</guid>
-      <description>This is a list of students enrolled in the MSNE program since program start in 2016.</description>
+      <guid>https://neuroengineering.blog/2019/06/22/neuruns-v3.0-in-the-elite-cup/</guid>
+      <description>Germany’s most awaited football tournament, the Champions’ League Elite Cup, was held on Saturday 22ndof June 2019 in Regensburg. Once again, the MSNE football team, the Neuruns, picked up the call of duty.
+Despite terrible weather forecasts, which prognosed heavy storms throughout the day, the Neuruns decided to go at the last moment (literally), and so they boarded the train towards glory, with an inherited objective: score a goal and break the curse!</description>
+    </item>
+    
+    <item>
+      <title>1st MBT Workshop on mobile EEG in Belgrade</title>
+      <link>https://neuroengineering.blog/2019/06/05/1st-mbt-workshop-on-mobile-eeg-in-belgrade/</link>
+      <pubDate>Wed, 05 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/06/05/1st-mbt-workshop-on-mobile-eeg-in-belgrade/</guid>
+      <description>EEG technology is on it’s way out of the lab into real world settings. Therefore, mBrain Train has organized their first Workshop on mobile EEG in the beautiful capital of Serbia to bring together experts from the community. Two MSNE students were invited (Mert Keser and Florian Schönleitner) and took this chance not only to listen to inspiring talks but also to discuss all the various challenges that arise when moving BCI applications from well defined lab environments to uncontrollable daily life situations.</description>
+    </item>
+    
+    <item>
+      <title>Campus Run 2019</title>
+      <link>https://neuroengineering.blog/2019/06/05/campus-run-2019/</link>
+      <pubDate>Wed, 05 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/06/05/campus-run-2019/</guid>
+      <description>The MSNE Neuruns teams participated in the TUM Campus Run 2019, in both its 5,5 and 11 km flavors. This time the scorching sun made the running conditions particularly harsh, but nonetheless it was great fun.
+Thanks a lot to the organization team of this event, which gets better every year!
+Francisco Zurita    </description>
     </item>
     
     <item>
@@ -47,6 +68,15 @@ When Prof. Glasauer left LMU last semester, Alex continued to support Prof.</des
       <guid>https://neuroengineering.blog/2019/03/09/msne-research-internships-in-manchester-and-atlanta/</guid>
       <description>As a part of our Master’s program, MSNE students explore labs outside of our programs in 6 to 8 week research internships. In this and a following series of posts, we collected stories of the experiences we made during our internships. In the second post, Lucas and Jonas share their impressions from their internships in Manchester and Atlanta.
 Lucas: University of Manchester, UK In the 2018 spring break, from February to April, I was part of the APT Advanced Processor Technologies Research Group at the University of Manchester.</description>
+    </item>
+    
+    <item>
+      <title>Computational and System&#39;s Neuroscience Meeting 2019</title>
+      <link>https://neuroengineering.blog/2019/02/27/computational-and-systems-neuroscience-meeting-2019/</link>
+      <pubDate>Wed, 27 Feb 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/02/27/computational-and-systems-neuroscience-meeting-2019/</guid>
+      <description>This year&#39;s Cosyne (Computational and Systems&#39;s neuroscience) was in the beautiful city of Lisbon, Portugal. It featured thought-provoking talks by Ken Harris, Eric-Shea-Brown and others. After the introduction of powerful tools based on recurrent neural networks in the last years, a common theme seemed to have been to build interpretable models of neural dynamics to use the powerful tools to ask scientific hypotheses. The workshops were in a way to fancy hotel in the seaside town of Cascais and provided a good ground for more detailed scientific discourse of the whole community.</description>
     </item>
     
     <item>
@@ -233,7 +263,8 @@ Among many other lectures, we enthusiastically attended the lecture series of MS
       <pubDate>Fri, 20 Oct 2017 18:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/2017/10/20/msne-welcome-event/</guid>
-      <description>With the start of the semester, 23 new students joined the Master&#39;s program in Neuroengineering at TU Munich. This Friday, the first and second year MSNE students met for a first get-together.</description>
+      <description>With the start of the semester, 23 new students joined the Master&#39;s program in Neuroengineering at TU Munich. This Friday, the first and second year MSNE students met for a first get-together.
+Auguste Schulz    </description>
     </item>
     
     <item>
@@ -315,16 +346,6 @@ This blog serves two purposes:
       <description>We are students from the Master of Science program in Neuroengineering (MSNE) at the Technical University in Munich and are using this site to share our experiences.
 This blog serves two purposes:
  We want to write a diary about the many great things that we are doing and experiencing. The blog is also supposed to give information to students interested in joining the program.  Disclaimer: This is a personal blog by the students in the Neuroengineering program and not an official website by TUM.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://neuroengineering.blog/1/01/01/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/1/01/01/</guid>
-      <description>Report about Research Visit at Emory University, USA Jonas Braun, 21.02.2019
-During the summer of 2018 I joined Prof. Chethan Pandarinath&#39;s Systems Neural Engineering Lab at the Wallace H. Coulter Department of Biomedical Engineering at Georgia Tech and Emory University in Atlanta, USA, as a summer research intern. The lab is located at the Emory campus and is working on &amp;ldquo;understanding how large populations of neurons in the brain perform computations and represent intention&amp;rdquo; (from snel.</description>
     </item>
     
   </channel>

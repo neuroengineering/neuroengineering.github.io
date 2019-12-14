@@ -6,10 +6,37 @@
     <description>Recent content in Tags on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Apr 2019 12:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 22 Jun 2019 05:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>events</title>
+      <link>https://neuroengineering.blog/tags/events/</link>
+      <pubDate>Sat, 22 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/events/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>social</title>
+      <link>https://neuroengineering.blog/tags/social/</link>
+      <pubDate>Sat, 22 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/social/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>research</title>
+      <link>https://neuroengineering.blog/tags/research/</link>
+      <pubDate>Wed, 05 Jun 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/tags/research/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>about</title>
@@ -17,24 +44,6 @@
       <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/tags/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>events</title>
-      <link>https://neuroengineering.blog/tags/events/</link>
-      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/events/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>research</title>
-      <link>https://neuroengineering.blog/tags/research/</link>
-      <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
-      
-      <guid>https://neuroengineering.blog/tags/research/</guid>
       <description></description>
     </item>
     
