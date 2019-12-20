@@ -6,10 +6,19 @@
     <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Jun 2019 05:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>MSNE List of Students</title>
+      <link>https://neuroengineering.blog/people/</link>
+      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/people/</guid>
+      <description>This is a list of students enrolled in the MSNE program since program start in 2016.</description>
+    </item>
     
     <item>
       <title>Neuruns v3.0 in the Elite Cup</title>
