@@ -6,7 +6,7 @@
     <description>Recent content on The Neurogineering Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 20 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Dec 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://neuroengineering.blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>MSNE List of Students</title>
       <link>https://neuroengineering.blog/people/</link>
-      <pubDate>Fri, 20 Dec 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 25 Dec 2019 00:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/people/</guid>
       <description>This is a list of students enrolled in the MSNE program since program start in 2016.</description>
@@ -51,12 +51,22 @@ Francisco Zurita    </description>
     </item>
     
     <item>
+      <title>3rd MSNE Retreat</title>
+      <link>https://neuroengineering.blog/2019/05/30/3rd-msne-retreat/</link>
+      <pubDate>Thu, 30 May 2019 05:00:00 +0000</pubDate>
+      
+      <guid>https://neuroengineering.blog/2019/05/30/3rd-msne-retreat/</guid>
+      <description>The third MSNE retreat started on 30th of May - in a very picturesque village called Brixlegg in Tyrol, Austria - and of course it couldn&#39;t start without adventures from the beginning. We&#39;ll try to share with you the amazing neuro-weekend we spent together.
+First day First thing we remember is how Aleks, Nogay, Tanya and our awesome organizers (Mel, Fulvia and Adrià) were trying to take all the cookies and other less important things from Adrià&#39;s place - and almost missed the bus since the driver was expecting to be leaving earlier.</description>
+    </item>
+    
+    <item>
       <title>Research</title>
       <link>https://neuroengineering.blog/about/research/</link>
       <pubDate>Sat, 27 Apr 2019 12:00:00 +0000</pubDate>
       
       <guid>https://neuroengineering.blog/about/research/</guid>
-      <description>Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler Soon: 3rd MSNE Retreat 2019  Conference Visits 2019  Computational and Systems Neuroscience 2019 (cosyne.org)  2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging Neuroscience 2018, San Diego (sfn.</description>
+      <description>Retreats  1st MSNE Retreat 2017. Invited Speakers: Matthias Bethge, Heiko Neumann, Dmitry Kireev 2nd MSNE Retreat 2018. Invited Speakers: Jakob Macke, Benjamin Grewe, Thomas Euler 3rd MSNE Retreat 2019. Invited Speakers: Nora Heinzelmann, Tobias Reichenbach, Albert Compte, Emily King Soon: 4th MSNE Retreat 2020  Conference Visits 2019  Computational and Systems Neuroscience 2019 (cosyne.org)  2018  13th Bernstein Conference Göttingen 2nd HBP Student Conference Interdisciplinary College CoC Neuroengineering Workshop Munich Conference on Clinical Neurotechnologies and Healthy Aging Neuroscience 2018, San Diego (sfn.</description>
     </item>
     
     <item>
