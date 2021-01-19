@@ -2,7 +2,7 @@
 <html lang="en-us">
 <head>
     <title>The Neurogineering Blog</title>
-    <meta name="generator" content="Hugo 0.61.0" />
+    <meta name="generator" content="Hugo 0.80.0" />
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
     <meta name="author" content="Neuroengineering">
@@ -28,11 +28,12 @@
 <meta property="og:description" content="" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://neuroengineering.blog/" />
-<meta property="og:updated_time" content="2019-12-25T00:00:00+00:00" />
+<meta property="og:updated_time" content="2020-03-31T05:00:00+00:00" />
 
     
     <meta itemprop="name" content="The Neurogineering Blog">
 <meta itemprop="description" content="">
+
     <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="The Neurogineering Blog"/>
 <meta name="twitter:description" content=""/>
@@ -177,7 +178,7 @@
     </div>
     <div class="article-info profile-block">
       <div class="article-info-block">
-        30
+        31
         <span></span>
       </div>
       <div class="article-info-block">
@@ -270,6 +271,142 @@
     <section id="main">
     
     
+
+
+<article class="article article-type-post" itemscope="" itemprop="blogPost">
+    <div class="article-inner">
+        
+        <a href="https://neuroengineering.blog/2016/12/09/christkindl-market/" itemprop="url">
+            <img src="https://neuroengineering.blog/img/161209-christkindl.jpg" class="article-banner">
+        
+        </a>
+
+        <header class="article-header">
+    <a href="https://neuroengineering.blog/2016/12/09/christkindl-market/">
+    <h1 class="article-title" itemprop="name">
+        Christkindl Market
+    </h1>
+    </a>
+    <div class="article-meta">
+
+        
+        <div class="article-date">
+            <i class="fa fa-calendar"></i>
+            <time datetime="2016-12-09 18:00:00 &#43;0000 UTC" itemprop="datePublished">2016-12-09</time>
+            &middot;
+            92
+            
+            &middot;
+            1
+            
+        </div>
+        
+        
+
+        
+            
+            
+            <div class="article-category">
+                <i class="fa fa-tags"></i>
+                
+                
+                <a class="article-category-link" href="https://neuroengineering.blog/tags/events">events</a>
+                
+                
+            </div>
+            
+        
+    </div>
+</header>
+
+        <div class="article-entry" itemprop="articleBody">
+            <p>
+                On Dec. 9th we met with the MSNE program manager, Florian Rattei, at one of the many Christkindl-Markets in Munich for some nice hot Glühwein.
+The medival-themed market with its many craftsmen and -women including a glassblower, a goldsmith and calligraphers as well as the authentic wooden stalls immediately makes one forget the stressful daily routine and emits a traditional Christmassy atmosphere.
+Standing around a stump that served as a table for our Glühwein cups, we also talked about organisational matters and planned activities like the writing of this blog.
+            </p>
+            <p class="article-more-link">
+                <a href="https://neuroengineering.blog/2016/12/09/christkindl-market/">
+                    
+                </a>
+            </p>
+        </div>
+        <footer class="article-footer">
+    <a data-url="https://neuroengineering.blog/2016/12/09/christkindl-market/" data-id="bf18a789e0bb476b3994cb639cac86cc" class="article-share-link">
+        <i class="fa fa-share"></i>
+        
+    </a>
+    
+
+    <script>
+    (function ($) {
+        
+        if (typeof(__SHARE_BUTTON_BINDED__) === 'undefined' || !__SHARE_BUTTON_BINDED__) {
+            __SHARE_BUTTON_BINDED__ = true;
+        } else {
+            return;
+        }
+        $('body').on('click', function() {
+            $('.article-share-box.on').removeClass('on');
+        }).on('click', '.article-share-link', function(e) {
+            e.stopPropagation();
+
+            var $this = $(this),
+                url = $this.attr('data-url'),
+                encodedUrl = encodeURIComponent(url),
+                id = 'article-share-box-' + $this.attr('data-id'),
+                offset = $this.offset(),
+                box;
+
+            if ($('#' + id).length) {
+                box = $('#' + id);
+
+                if (box.hasClass('on')){
+                    box.removeClass('on');
+                    return;
+                }
+            } else {
+                var html = [
+                    '<div id="' + id + '" class="article-share-box">',
+                        '<input class="article-share-input" value="' + url + '">',
+                        '<div class="article-share-links">',
+                            '<a href="https://twitter.com/intent/tweet?url=' + encodedUrl + '" class="fa fa-twitter article-share-twitter" target="_blank" title="Twitter"></a>',
+                            '<a href="https://www.facebook.com/sharer.php?u=' + encodedUrl + '" class="fa fa-facebook article-share-facebook" target="_blank" title="Facebook"></a>',
+                            '<a href="http://pinterest.com/pin/create/button/?url=' + encodedUrl + '" class="fa fa-pinterest article-share-pinterest" target="_blank" title="Pinterest"></a>',
+                            '<a href="https://plus.google.com/share?url=' + encodedUrl + '" class="fa fa-google article-share-google" target="_blank" title="Google+"></a>',
+                        '</div>',
+                    '</div>'
+                ].join('');
+
+              box = $(html);
+
+              $('body').append(box);
+            }
+
+            $('.article-share-box.on').hide();
+
+            box.css({
+                top: offset.top + 25,
+                left: offset.left
+            }).addClass('on');
+
+        }).on('click', '.article-share-box', function (e) {
+            e.stopPropagation();
+        }).on('click', '.article-share-box-input', function () {
+            $(this).select();
+        }).on('click', '.article-share-box-link', function (e) {
+            e.preventDefault();
+            e.stopPropagation();
+
+            window.open(this.href, 'article-share-box-window-' + Date.now(), 'width=500,height=450');
+        });
+    })(jQuery);
+    </script>
+</footer>
+
+    </div>
+</article>
+
 
 
 <article class="article article-type-post" itemscope="" itemprop="blogPost">
@@ -434,6 +571,23 @@ This blog serves two purposes:
             
             <li>
                 <div class="item-thumbnail">
+                    <a href="https://neuroengineering.blog/2020/03/31/after-our-visit-to-the-texas-instruments-headquarters-in-freising.-credits-voelkl-ti/" class="thumbnail">
+                    
+                        <span style="background-image:url(https://neuroengineering.blog/img/200331-semester-report/TI_visit.jpg)" alt="The Neurogineering Blog" class="thumbnail-image"></span>
+                    
+                    </a>
+                </div>
+                <div class="item-inner">
+                    
+                    <p class="item-title"><a href="https://neuroengineering.blog/2020/03/31/after-our-visit-to-the-texas-instruments-headquarters-in-freising.-credits-voelkl-ti/" class="title">After our visit to the Texas Instruments headquarters in Freising. Credits: Voelkl, TI</a></p>
+                    <p class="item-date">
+                        <time datetime="2020-03-31 05:00:00 &#43;0000 UTC" itemprop="datePublished">2020-03-31</time>
+                    </p>
+                </div>
+            </li>
+            
+            <li>
+                <div class="item-thumbnail">
                     <a href="https://neuroengineering.blog/2019/06/22/neuruns-v3.0-in-the-elite-cup/" class="thumbnail">
                     
                         <span style="background-image:url(https://neuroengineering.blog/img/190622-elite-cup/image2.jpg)" alt="The Neurogineering Blog" class="thumbnail-image"></span>
@@ -500,23 +654,6 @@ This blog serves two purposes:
                 </div>
             </li>
             
-            <li>
-                <div class="item-thumbnail">
-                    <a href="https://neuroengineering.blog/2019/04/03/farewell-for-alex-knorr/" class="thumbnail">
-                    
-                        <span style="background-image:url(https://neuroengineering.blog/img/farewell_alex.jpg)" alt="The Neurogineering Blog" class="thumbnail-image"></span>
-                    
-                    </a>
-                </div>
-                <div class="item-inner">
-                    
-                    <p class="item-title"><a href="https://neuroengineering.blog/2019/04/03/farewell-for-alex-knorr/" class="title">Farewell for Alex Knorr</a></p>
-                    <p class="item-date">
-                        <time datetime="2019-04-03 12:00:00 &#43;0000 UTC" itemprop="datePublished">2019-04-03</time>
-                    </p>
-                </div>
-            </li>
-            
         </ul>
     </div>
 </div>
@@ -539,7 +676,7 @@ This blog serves two purposes:
 <footer id="footer">
   <div class="outer">
     <div id="footer-info" class="inner">
-      &copy; 2019
+      &copy; 2021
       Powered by <a href="//gohugo.io">Hugo</a>. Theme by <a href="http://github.com/ppoffice">PPOffice</a>.
 <!-- raw HTML omitted -->Steffen Schneider &amp; Nicolas Berberich •
 Mitterweg 21 •
